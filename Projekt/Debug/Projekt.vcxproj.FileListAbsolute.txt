@@ -1,0 +1,2 @@
+C:\Users\wojte\source\repos\Projekt\Debug\Projekt.exe
+C:\Users\wojte\source\repos\Projekt\Debug\Projekt.pdb
