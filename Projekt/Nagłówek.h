@@ -11,16 +11,17 @@ protected:
 	int priority;
 public:
 	void show();
+	virtual int set_Priority(int priority);
 };
 
 class Formal:public Meeting
 {
 public:
-	int setPriority(int priority);
+	int set_Priority(int priority);
 };
 
 class Informal:public Meeting
 {
 public:
-	int setPriority(int priority);
+	int set_Priority(int priority);
 };
